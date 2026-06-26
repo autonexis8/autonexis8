@@ -77,6 +77,28 @@
 <img src="https://streak-stats.demolab.com?user=autonexis8&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=autonexis8&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=autonexis8&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+
 ## 📫 Contact
 
 📧 **[autonexisofficial.com@gmail.com](mailto:autonexisofficial.com@gmail.com)**
@@ -84,6 +106,24 @@
 📍 Mandi Bahauddin, Punjab, Pakistan
 
 ---
+---
 
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:autonexisofficial.com@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
 ### ⭐ Thanks for visiting my profile!
 
