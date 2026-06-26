@@ -1,34 +1,33 @@
 <div align="center">
 
-# 👋 Hi, I'm Danish Gondal
+# Danish Gondal
 
-### 🤖 Founder of Autonexis AI
+### Founder • Autonexis AI
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=AI+Automation+Developer;WhatsApp+Automation+Expert;n8n+Workflow+Developer;API+Integration+Specialist;Building+AI+Solutions+for+Businesses" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+Automation+Developer;n8n+Workflow+Expert;WhatsApp+Automation;API+Integration+Specialist;Building+AI+Solutions+for+Businesses" />
 
 </div>
-# 👋 Hi, I'm Danish Gondal
-
-## 🤖 Founder of Autonexis AI
-
-🚀 I build AI-powered automation solutions that help businesses save time, reduce costs, and scale faster.
 
 ---
 
-## 💼 What I Do
+# About
 
-* 🤖 AI Agents
-* ⚡ n8n Workflow Automation
-* 💬 WhatsApp Automation
-* 🔗 API Integrations
-* 📊 Google Sheets Automation
-* 🌐 Webhooks & APIs
-* 🧠 Gemini AI Integration
-* ☁️ Cloudflare Tunnel
+I build AI-powered automation systems that help businesses automate repetitive tasks, improve customer support, and streamline operations.
+
+### Specializing In
+
+* AI Agents
+* n8n Workflow Automation
+* WhatsApp Automation
+* API Integrations
+* JavaScript
+* Google Sheets Automation
+* Webhooks
+* Gemini AI
 
 ---
 
-## 🛠️ Tech Stack
+# Technology
 
 <p align="center">
 
@@ -48,29 +47,25 @@
 
 ---
 
-## 📌 Current Focus
+# Current Focus
 
-* 🚀 Building AI Automation Systems
-* 🤖 Intelligent WhatsApp AI Agents
-* ⚡ Advanced n8n Workflows
-* 🔗 API Integrations
+* Building AI Automation Systems
+* AI Business Assistants
+* WhatsApp AI Solutions
+* Intelligent Workflow Automation
+* Business Process Automation
 
 ---
 
----
-
-## 📊 GitHub Stats
+# GitHub Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=autonexis8&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=autonexis8&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=autonexis8&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=autonexis8&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
----
-
-## 🔥 Contribution Streak
 
 <p align="center">
 
@@ -80,50 +75,37 @@
 
 ---
 
-## 🏆 GitHub Achievements
+# Featured Projects
 
-<p align="center">
+Coming Soon...
 
-<img src="https://github-profile-trophy.vercel.app/?username=autonexis8&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+* AI WhatsApp Agent
+* Restaurant AI Assistant
+* Real Estate AI Agent
+* Appointment Booking Automation
+* CRM Automation
+* Google Sheets AI Workflows
 
-</p>
+---
+
+# Contact
+
+**Email**
+
+[autonexisofficial.com@gmail.com](mailto:autonexisofficial.com@gmail.com)
+
+**Location**
+
+Mandi Bahauddin, Punjab, Pakistan
 
 ---
 
-## 👀 Profile Views
+<div align="center">
 
-<p align="center">
+### Autonexis AI
 
-<img src="https://komarev.com/ghpvc/?username=autonexis8&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+Building Intelligent Automation for Modern Businesses.
 
-</p>
+</div>
 
-
-## 📫 Contact
-
-📧 **[autonexisofficial.com@gmail.com](mailto:autonexisofficial.com@gmail.com)**
-
-📍 Mandi Bahauddin, Punjab, Pakistan
-
----
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:autonexisofficial.com@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-### ⭐ Thanks for visiting my profile!
 
