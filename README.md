@@ -1,3 +1,12 @@
+<div align="center">
+
+# 👋 Hi, I'm Danish Gondal
+
+### 🤖 Founder of Autonexis AI
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=AI+Automation+Developer;WhatsApp+Automation+Expert;n8n+Workflow+Developer;API+Integration+Specialist;Building+AI+Solutions+for+Businesses" />
+
+</div>
 # 👋 Hi, I'm Danish Gondal
 
 ## 🤖 Founder of Autonexis AI
