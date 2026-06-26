@@ -68,7 +68,15 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=autonexis8&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
+---
 
+## 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=autonexis8&theme=tokyonight&hide_border=true"/>
+
+</p>
 ## 📫 Contact
 
 📧 **[autonexisofficial.com@gmail.com](mailto:autonexisofficial.com@gmail.com)**
