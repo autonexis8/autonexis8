@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Danish Gondal
 
-<!--
-**autonexis8/autonexis8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤖 Founder of Autonexis AI
 
-Here are some ideas to get you started:
+🚀 I build AI-powered automation solutions that help businesses save time, reduce costs, and scale faster.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 What I Do
+
+* 🤖 AI Agents
+* ⚡ n8n Workflow Automation
+* 💬 WhatsApp Automation
+* 🔗 API Integrations
+* 📊 Google Sheets Automation
+* 🌐 Webhooks & APIs
+* 🧠 Gemini AI Integration
+* ☁️ Cloudflare Tunnel
+
+---
+
+## 🛠️ Tech Stack
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge\&logo=googlesheets\&logoColor=white)
+
+---
+
+## 📌 Current Focus
+
+* 🚀 Building AI Automation Systems
+* 🤖 Intelligent WhatsApp AI Agents
+* ⚡ Advanced n8n Workflows
+* 🔗 API Integrations
+
+---
+
+## 📫 Contact
+
+📧 **[autonexisofficial.com@gmail.com](mailto:autonexisofficial.com@gmail.com)**
+
+📍 Mandi Bahauddin, Punjab, Pakistan
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
